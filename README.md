@@ -1,2 +1,3 @@
-# commodity-prices-EUR
+# Ceny komodit pro krmiva na světových trzích
  
+Grafy posledního vývoje cen komodit důležitých pro výrobu krmných směsí.
